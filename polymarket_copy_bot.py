@@ -7,7 +7,7 @@ from py_clob_client.order_builder.constants import BUY
 #####################
 ### CONFIGURATION ###
 #####################
-TARGET_ADDRESS = "0x0000000000000000000000000000000000000000"
+TARGET_ADDRESS = "0x492442eab586f242b53bda933fd5de859c8a3782"
 
 FUNDER_ADDRESS = "your-wallet-address"
 PRIVATE_KEY = "your-private-key"
